@@ -1,3 +1,11 @@
+### Custom
+zen-sessions.jsonlz4
+
+
+
+
+### Github Python default
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
